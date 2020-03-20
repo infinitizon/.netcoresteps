@@ -11,6 +11,6 @@
   - Install extensions...C# (OmniSharp), C# extensions (Jchannon. project no longer developed) , Nuget Package Manager (jmrog), 
   
 5. Go to File -> Settings
-   - Search for 'Exclude' in the search box, Click on Files, Click 'Add Pattern', Add pattern '**/bin' and '**obj'
+   - Search for 'Exclude' in the search box, Click on Files, Click 'Add Pattern', Add pattern '**/bin' and '**/obj'
    
 6. Open terminal in code and type dotnet run
