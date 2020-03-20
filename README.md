@@ -14,3 +14,4 @@
    - Search for 'Exclude' in the search box, Click on Files, Click 'Add Pattern', Add pattern '**/bin' and '**/obj'
    
 6. Open terminal in code and type dotnet run
+7. Remember "dotnet watch run" would auto restart our web server
