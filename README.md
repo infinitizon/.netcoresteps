@@ -15,3 +15,4 @@
    
 6. Open terminal in code and type dotnet run
 7. Remember "dotnet watch run" would auto restart our web server
+8. Install migration tool (dotnet-ef), type "dotnet tool install --global dotnet-ef" in your project command line
