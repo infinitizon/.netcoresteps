@@ -16,3 +16,10 @@
 6. Open terminal in code and type dotnet run
 7. Remember "dotnet watch run" would auto restart our web server
 8. Install migration tool (dotnet-ef), type "dotnet tool install --global dotnet-ef" in your project command line
+
+9. The debugger may currently not be available when you go to the debugger tab in VSCode
+  - Add a configuration
+  - Select .Net Core
+  - Select .Net: Attach to local .Net Console App (this adds a new configuration to the configurations in launch.json)
+  - Select the configuration and click the play button.
+  - Select the {application}.dll from the context menu
